@@ -62,8 +62,9 @@ export const styles=StyleSheet.create({
         marginBottom:12,
         alignItems:'center',
         width:85,
-        height:50,
-        justifyContent:'center'
+        height:34,
+        justifyContent:'center',
+        
 
     },
 
@@ -76,7 +77,7 @@ export const styles=StyleSheet.create({
         borderWidth:2,
         marginBottom:12,
         width:85,
-        height:50,
+        height:34,
         alignItems:'center',
         justifyContent:'center'
         

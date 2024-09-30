@@ -22,7 +22,7 @@ export const styles=StyleSheet.create({
     floatingButtonView:{
        position:"absolute",
        right:20,
-       bottom:160,
+       bottom:100,
        padding:12,
        backgroundColor:"#EB690B",
        borderRadius:10,
@@ -57,7 +57,7 @@ export const styles=StyleSheet.create({
     },
     modalPriorityText:{
         fontSize:18,
-        // fontWeight:'bold'
+        fontWeight:'bold'
     },
 
     paginaModal:{
